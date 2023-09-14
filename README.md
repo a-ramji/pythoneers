@@ -42,7 +42,7 @@ https://github.com/scipy/scipy
 
 Travis Olliphant started the `SciPy` project in the late 1990s in order to address the need for a comprehensive library for scientific and technical computing in Python. He also played a significant role in the development of NumPy, which is a fundamental component of `SciPy`.
 
-*** Uses in Environmental Data Science
+### Uses in Environmental Data Science
 
 Data Preprocessing
 
