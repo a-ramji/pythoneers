@@ -15,4 +15,5 @@ dependencies:
   - plotnine
   - bokeh
   - ipykernel
+pip:
   - palmerpenguins
