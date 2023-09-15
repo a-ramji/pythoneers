@@ -15,3 +15,4 @@ dependencies:
   - plotnine
   - bokeh
   - ipykernel
+  - palmerpenguins
